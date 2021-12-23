@@ -3,7 +3,7 @@
     "path": "C:/Users/zripk/documents/programming/strava/strava-analysis.R",
     "project_path": "strava-analysis.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1045352899",
     "contents": "",
     "dirty": false,
     "created": 1640232225850.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "21,17",
-        "scrollLine": "2"
+        "cursorPosition": "44,32",
+        "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1640233940,
+    "lastKnownWriteTime": 1640237295,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1640233940648,
+    "last_content_update": 1640237295830,
     "read_only": false,
     "read_only_alternatives": []
 }

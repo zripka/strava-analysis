@@ -32,3 +32,23 @@ strava_data <- select(strava_data,
                       "Other Time",
                       "Perceived Exertion",
                       "Total Weight Lifted")
+strava_data
+
+# Further limiting the dataset after having checked out what these variables are
+strava_data <- select(strava_data,
+                      "Activity ID", 
+                      "Activity Date", 
+                      "Activity Name", 
+                      "Activity Type",
+                      "Elapsed Time",
+                      "Distance",
+                      "Commute",
+                      "Moving Time",
+                      "Max Speed",
+                      "Average Speed",
+                      "Elevation Gain",
+                      "Elevation Loss",
+                      "Elevation Low",
+                      "Elevation High",
+                      "Perceived Exertion")
+strava_data
